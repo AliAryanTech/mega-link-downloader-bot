@@ -55,4 +55,4 @@ Ex:- <a href="https://telegra.ph/file/bdc35efc07712050bc418.jpg">Send Like This!
 
 <b>Note</b> :- You can download links which are bigger than 2GB from me too! Due to telegram API limits I can't upload files which are bigger than 2GB so I will split such files and upload them to you!
 
-✨ <b>I am open source so you can make your own bot from here!👇</b>"""
+✨ <b>Join Our Anime Channel & Watch Anime👇</b>"""
