@@ -87,7 +87,7 @@ async def mega_dl(bot, update):
                     a=1
                 if a == 1:
                     if ".mp4" in fname or ".mkv" in fname:
-                        tg_send_type="doc"
+                        tg_send_type="vid"
                     else:
                         tg_send_type="doc"
                 if ".mp4" in fname:
